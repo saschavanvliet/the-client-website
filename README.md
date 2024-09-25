@@ -21,6 +21,15 @@ De instructie van deze leertaak staan in de [INSTRUCTIONS.md](https://github.com
 ## Kenmerken
 <!-- Bij Kenmerken staat welke technieken zijn gebruikt en hoe. Wat is de HTML structuur? Wat zijn de belangrijkste dingen in CSS? Wat is er met Javascript gedaan en hoe? Misschien heb je een framwork of library gebruikt? -->
 
+## Definitions of done
+Deze opdracht is done als:
+
+- De website staat op Github en heeft een live url
+- Je hebt gestructureerd gewerkt met behulp van de development-lifecycle en je hebt het proces bijgehouden in jouw Learning Log
+- Er is een volledige debriefing geschreven voor de opdrachtgever en de feedback van de opdrachtgever op de (eerste) debriefing is gedocumenteerd en verwerkt
+- Je hebt feedback gekregen van de opdrachtgever tijdens de Sprint review en de feedback gedocumenteerd
+- Je hebt verschillende variaties geschetst voor de responsive layout en een ontwerp gemaakt, en feedback gekregen in Github Issues
+- Je hebt het ontwerp gerealiseerd met HTML, CSS en/of JS, je hebt code uitgelegd en feedback gekregen in Github Issues
 
 
 ## Licentie
