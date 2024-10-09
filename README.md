@@ -11,7 +11,7 @@ De instructie van deze leertaak staan in de [INSTRUCTIONS.md](https://github.com
   * [Beschrijving](#beschrijving)
   * [Kenmerken](#kenmerken)
   * [DeBriefing](https://github.com/saschavanvliet/the-client-website/main/README.md#debriefing)
-  * [Definitions of done](#definitions of done)
+  * [Definitions of done](https://github.com/saschavanvliet/the-client-website/blob/main/README.md#definitions-of-done)
   * [Licentie](#licentie)
 
 ## Beschrijving
